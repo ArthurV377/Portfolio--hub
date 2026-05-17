@@ -21,7 +21,7 @@ Criar um site estático hospedado no GitHub Pages para demonstrar habilidades em
 ## 🌐 Acesso ao site
 O projeto pode ser acessado através do GitHub Pages:
 
-👉 [https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/](https://arthurv377.github.io/Portfolio--hub/)
+👉 https://arthurv377.github.io/Portfolio--hub/
 
 ## 📌 Status
 ✔ Projeto finalizado e publicado
